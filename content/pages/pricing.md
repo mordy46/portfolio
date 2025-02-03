@@ -16,7 +16,7 @@ sections:
       self:
         justifyContent: center
       subtitle:
-        textAlign: right
+        textAlign: left
     type: PricingSection
 seo:
   metaTitle: Pricing - Demo site
